@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/zu_meiter_Design_a_bold_modern_logo_for_a_company_called_Cypada (1) (1).png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
