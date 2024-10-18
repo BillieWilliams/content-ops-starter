@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: vi setter stor pris på at du er her
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      her kan du bestille det vi har 3D print, du kan gi en forespørsel om hva
+      vi kan print ut til deg. vi kan printe ut en hai, et hus, en isbjørn så og
+      si alt du vil. det kan ta en stund for å printe, men vi skal få det til
+      raskest mulig. 
     actions:
       - label: Get started
         altText: ''
